@@ -1,7 +1,7 @@
 ## How to Run
 
 This project is designed to run on **Google Colab** with GPU acceleration.
-![Project Screenshot](screenshot.png)
+![Project Screenshot](output.png)
 
 ### Prerequisites
 
