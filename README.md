@@ -5,7 +5,13 @@ This project is designed to run on **Google Colab** with GPU acceleration.
 ### Prerequisites
 
 1. A Google account with Google Drive access
-2. The dataset (`archive.zip`) uploaded to your Google Drive
+2. The dataset (`archive.zip`) downloaded from Kaggle and uploaded to your Google Drive
+
+### Dataset
+
+Download the dataset from Kaggle and upload `archive.zip` to your Google Drive:
+
+[Midjourney Images & Prompts — Kaggle](https://www.kaggle.com/datasets/cyanex1702/midjourney-imagesprompt)
 
 ### Steps
 
