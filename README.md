@@ -1,6 +1,7 @@
 ## How to Run
 
 This project is designed to run on **Google Colab** with GPU acceleration.
+![Project Screenshot](screenshot.png)
 
 ### Prerequisites
 
@@ -32,5 +33,4 @@ All dependencies are installed automatically within the notebook:
 ### Testing / Inference
 
 The notebook includes 20 predefined game-themed prompts at the end for testing the generator. Run the inference cells to generate images from text descriptions like `"epic fantasy battle scene with knights and dragons"`.
-<img width="72" height="38" alt="image" src="https://github.com/user-attachments/assets/b59e2741-1206-48ac-b503-2bdaa6c67e6a" />
 
